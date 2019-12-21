@@ -4,3 +4,6 @@
 [submodule "iOS1/touchfree"]
 	path = iOS1/touchfree
 	url = https://github.com/planetbeing/touchfree
+[submodule "iOS1/ZiPhone"]
+	path = iOS1/ZiPhone
+	url = https://github.com/Zibri/ZiPhone/
