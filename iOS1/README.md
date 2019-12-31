@@ -13,10 +13,15 @@ iOS 1.0 的原装固件 iPhone1,1_1.0_1A543a_Restore.ipsw 只有 91.18 MB，这�
 
 ![iOS 1](https://upload.wikimedia.org/wikipedia/en/8/8a/IPhone_OS_1_screenshot.jpg)
 
-苹果一开始的想法是，用户只需要使用 Safari 访问一切他们所需要的应用，不仅如此，系统连铃声也无法自己更换，再加上一开始只有跟美国运营商at&t签订合约，才可以购买 iPhone，即便你签完合约之后，你的 iPhone 也不能使用其他运营商的 sim 卡，所以这个时候 iPhone 黑客们要做的事情很简单，取得系统最高权限，然后在这个基础上：
+苹果一开始的想法是，用户只需要使用 Safari 访问一切他们所需要的应用，不仅如此，系统连铃声与壁纸也无法自己更换。
+
+再加上只有跟美国运营商 at&t 签订合约，才可以购买 iPhone。
+
+即便你签完合约之后，你的 iPhone 也不能使用其他运营商的 sim 卡，所以这个时候 iPhone 黑客们要做的事情很简单，取得系统最高权限，然后在这个基础上：
 
 - 逆向原生 app，搞懂 app 是如何工作的，然后提供一套工具链，让大家开发自制的第三方应用（事实证明，在之后的 iOS 2.0 中，苹果公布的 iPhone SDK 就是这样一套东西）
-  详细可以查看《iPhone Open Application Development》一书
+  - 详细可以查看《iPhone Open Application Development》一书
+
 - 提供一个便捷的方式供用户安装第三方应用
 - 解锁 iPhone，让用户能使用其他运营商 ———— 也被称为 Hacktivation
 
